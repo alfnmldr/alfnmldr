@@ -14,4 +14,4 @@
 
 ## 😄 Fun Facts
 - I once fixed a bug by deleting the whole project and starting over 😂
-- I talk to my rubber duck more than I talk to people.
+
