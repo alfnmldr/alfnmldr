@@ -13,10 +13,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
 
-
-## 📊 GitHub Stats
-![Alfian's GitHub stats](https://github-readme-stats.vercel.app/api?username=alfian-dev&show_icons=true&theme=radical)
-
 ## 😄 Fun Facts
 - I once fixed a bug by deleting the whole project and starting over 😂
 - I talk to my rubber duck more than I talk to people.
