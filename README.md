@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @alfnmldr
+## 👋 Hi there! I'm Alfian
+- 💻 I’m a Fullstack Web Developer
+- 🌱 Currently learning: Next.js, TypeScript
+- 😄 Pronouns: he/him
 
-<!---
-alfnmldr/alfnmldr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
