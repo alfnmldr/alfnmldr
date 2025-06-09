@@ -18,7 +18,7 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfnmldr&show_icons=true&theme=midnight-purple)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfnmldr&show_icons=true&theme=transparent)
 
 ## 😄 Fun Facts
 - I once fixed a bug by deleting the whole project and starting over 😂
