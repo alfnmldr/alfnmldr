@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Alfian
 - 💻 I’m a Fullstack Web Developer  
-- 🌱 Learning and building with: Next.js, TypeScript  
+- 🌱 Learning and building with: Next.js, Laravel, React, TypeScript  
 - 📦 Love designing scalable and maintainable systems  
 - 🧠 Into backend architecture and clean code practices  
 - 😄 Pronouns: he/him
