@@ -1,7 +1,10 @@
 ## 👋 Hi there! I'm Alfian
-- 💻 I’m a Fullstack Web Developer
-- 🌱 Currently learning: Next.js, TypeScript
+- 💻 I’m a Fullstack Web Developer  
+- 🌱 Learning and building with: Next.js, TypeScript  
+- 📦 Love designing scalable and maintainable systems  
+- 🧠 Into backend architecture and clean code practices  
 - 😄 Pronouns: he/him
+
 
 ## 🚀 Tech Stack
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
