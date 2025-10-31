@@ -1,9 +1,6 @@
-## 👋 Hi there! I'm Alfian
-- 💻 I’m a Fullstack Web Developer  
-- 🌱 Learning and building with: Next.js, Laravel, React, TypeScript  
-- 📦 Love designing scalable and maintainable systems  
-- 🧠 Into backend architecture and clean code practices  
-- 😄 Pronouns: he/him
+## 👋 Hi there! I'm Alfian  
+- Next.js, Laravel, React, TypeScript  
+- he/him
 
 
 ## 🚀 Tech Stack
@@ -20,6 +17,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfnmldr&show_icons=true&theme=transparent)
 
-## 😄 Fun Facts
-- I once fixed a bug by deleting the whole project and starting over 😂
+## Fun Facts
+- I once fixed a bug by deleting the whole project and starting over..
 
