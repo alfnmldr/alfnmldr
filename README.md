@@ -12,11 +12,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black)
 
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alfnmldr&show_icons=true&theme=transparent)
-
 ## Fun Facts
 - I once fixed a bug by deleting the whole project and starting over..
 
