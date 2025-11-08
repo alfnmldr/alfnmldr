@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Alfian  
+## 👋 Hi! I'm Alfian  
 - Next.js, Laravel, React, TypeScript, Electron  
 - he/him
 ## Fun Facts
