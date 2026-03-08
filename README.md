@@ -5,7 +5,7 @@
 </p>
 
 ### 🛠 Tools & Languages
-[![My Skills](https://skillicons.dev/icons?i=js,laravel,react,flutter,go,php,cpp,fedora,kde,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,laravel,react,flutter,go,php)](https://skillicons.dev)
 
 ### 📊 GitHub Stats
 <p align="left">
