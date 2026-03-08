@@ -4,8 +4,8 @@
 ## </p>
 [![My Skills](https://skillicons.dev/icons?i=js,electron,laravel,react,flutter,golang)](https://skillicons.dev)
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alfnmldr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfnmldr&layout=compact&theme=tokyonight"/>
 </p>
 ## Fun Facts
 - I once fixed a bug by deleting the whole project and starting over..hehe
