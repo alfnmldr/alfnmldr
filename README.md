@@ -1,7 +1,7 @@
 # <p align="left">Hi, I'm Alfian</p>
 
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=94A3B8&width=435&lines=Information+Systems+Student;Learning+something+new+every+day" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=94A3B8&width=435&lines=Information+Systems+Student;Learning+something+new+every+day+:D" alt="Typing SVG" />
 </p>
 
 ### Tools
