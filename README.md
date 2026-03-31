@@ -14,6 +14,6 @@
 - I once fixed a bug by deleting the whole project and starting over..hehe
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cf621db6-4183-449b-9150-bcd6f7b4eb1c" alt="Waterfall Pixel Art" width="100%">
+  <img src="https://github.com/user-attachments/assets/cf621db6-4183-449b-9150-bcd6f7b4eb1c" alt="Waterfall Pixel Art" width="100%" height="800px">
 </p>
 
