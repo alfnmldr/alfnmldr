@@ -13,4 +13,7 @@
 ### Fun Facts
 - I once fixed a bug by deleting the whole project and starting over..hehe
 
-![download (5)](https://github.com/user-attachments/assets/cf621db6-4183-449b-9150-bcd6f7b4eb1c)
+<p align="center">
+  <img src="![download (5)](https://github.com/user-attachments/assets/cf621db6-4183-449b-9150-bcd6f7b4eb1c)" alt="Waterfall Pixel Art" width="100%">
+</p>
+
