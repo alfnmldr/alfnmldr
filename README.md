@@ -16,6 +16,7 @@
 
 ### 📈 Contribution Graph
 ![Your Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alfnmldr&theme=tokyo-night)
+![trophy](https://github-profile-trophy.vercel.app/?username=alfnmldr&theme=onedark)
 ### Fun Facts
 - I once fixed a bug by deleting the whole project and starting over..hehe
 
