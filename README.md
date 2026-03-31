@@ -3,11 +3,19 @@
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=js,electron,laravel,react,flutter,go,html,css)](https://skillicons.dev)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfnmldr&show_icons=true&theme=tokyonight&count_private=true&cache_buster=123" width="450" />
+
+### 🚀 My Focus & Journey
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Backend_Development-blue?style=for-the-badge&logo=go" />
+  <img src="https://img.shields.io/badge/Learning-System_Architecture-orange?style=for-the-badge&logo=laravel" />
+  <img src="https://img.shields.io/badge/Status-Available_for_Projects-green?style=for-the-badge" />
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alfnmldr&theme=tokyonight&hide_border=true" alt="Streak Stats" />    
+---
+
+### 📈 Contribution Graph
+![Your Activity Graph](https://activity-graph.herokuapp.com/graph?username=alfnmldr&theme=tokyonight)
 
 ### Fun Facts
 - I once fixed a bug by deleting the whole project and starting over..hehe
