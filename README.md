@@ -4,18 +4,8 @@
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=js,electron,laravel,react,flutter,go,html,css)](https://skillicons.dev)
 
-### 📊 GitHub Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alfnmldr&theme=tokyonight&hide_border=true" alt="Streak Stats" />    
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfnmldr&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=alfnmldr&show_icons=true&theme=tokyonight&hide_border=true" width="300" />    
-    </td>
-  </tr>
-</table>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alfnmldr&show_icons=true&theme=tokyonight&hide_border=true" width="450" />
