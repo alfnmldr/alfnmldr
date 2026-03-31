@@ -12,7 +12,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfnmldr&theme=tokyonight&hide_border=true" alt="Streak Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfnmldr&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="300" />
+      <img src="https://github-profile-trophy.vercel.app/?username=alfnmldr&theme=tokyonight&no-bg=true&column=6" alt="github trophy" />
     </td>
   </tr>
 </table>
