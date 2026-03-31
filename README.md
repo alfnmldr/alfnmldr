@@ -9,10 +9,10 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfnmldr&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfnmldr&theme=tokyonight&hide_border=true" alt="Streak Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfnmldr&layout=compact&theme=tokyonight&hide_border=true" width="350" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfnmldr&layout=compact&theme=tokyonight&hide_border=true&count_private=true" width="300" />
     </td>
   </tr>
 </table>
