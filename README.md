@@ -3,6 +3,9 @@
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=js,electron,laravel,react,flutter,go,html,css)](https://skillicons.dev)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alfnmldr&show_icons=true&theme=tokyonight&count_private=true&cache_buster=123" width="450" />
+</p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfnmldr&theme=tokyonight&hide_border=true" alt="Streak Stats" />    
 
