@@ -18,4 +18,5 @@
 ### Fun Facts
 - I once fixed a bug by deleting the whole project and starting over..hehe
 
-![gihubbanner](https://github.com/user-attachments/assets/f7fa4720-4020-4992-b729-53922393b9e1)
+
+![download (4)](https://github.com/user-attachments/assets/df6c7895-fdb6-4128-9ec6-321339fde5e7)
