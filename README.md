@@ -17,5 +17,3 @@
 
 ### Fun Facts
 - I once fixed a bug by deleting the whole project and starting over..hehe
-
-![Mount Fuji desktop background 2](https://github.com/user-attachments/assets/a566fa1c-14f7-4f5b-b9a4-5a502b44f81f)
