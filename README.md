@@ -12,7 +12,16 @@
   <img src="https://img.shields.io/badge/Status-Available_for_Projects-green?style=for-the-badge" />
 </p>
 
-![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfnmldr&theme=tokyonight)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alfnmldr&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alfnmldr&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 ### Fun Facts
 - I once fixed a bug by deleting the whole project and starting over..hehe
 
