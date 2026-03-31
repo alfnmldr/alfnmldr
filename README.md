@@ -2,7 +2,7 @@
 ![PixeLɑnd ◇](https://github.com/user-attachments/assets/2c1e806d-cb1c-44a8-b722-f083c2502823)
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=js,electron,laravel,react,flutter,go,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,laravel,react,go,html,css)](https://skillicons.dev)
 
 ### 🚀 My Focus & Journey
 
