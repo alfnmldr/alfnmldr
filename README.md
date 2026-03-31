@@ -13,4 +13,4 @@
 ### Fun Facts
 - I once fixed a bug by deleting the whole project and starting over..hehe
 
-![download (26)](https://github.com/user-attachments/assets/cd6172d2-af85-43a5-8c13-e136fb2c48c5)
+![download (5)](https://github.com/user-attachments/assets/cf621db6-4183-449b-9150-bcd6f7b4eb1c)
