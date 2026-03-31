@@ -14,12 +14,7 @@
 - I once fixed a bug by deleting the whole project and starting over..hehe
 
 <p align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/cf621db6-4183-449b-9150-bcd6f7b4eb1c" 
-    alt="Waterfall Pixel Art" 
-    width="100%" 
-    height="200" 
-    style="object-fit: cover; object-position: center;"
-  >
+  <img src="https://github.com/user-attachments/assets/82a121ba-d3df-44e9-a2ad-c5b978ba6f11" alt="Waterfall Pixel Art" width="100%" style="max-height: 250px; object-fit: cover;">
 </p>
+
 
