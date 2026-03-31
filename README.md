@@ -13,8 +13,3 @@
 ### Fun Facts
 - I once fixed a bug by deleting the whole project and starting over..hehe
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/82a121ba-d3df-44e9-a2ad-c5b978ba6f11" alt="Waterfall Pixel Art" width="100%" style="max-height: 250px; object-fit: cover;">
-</p>
-
-
