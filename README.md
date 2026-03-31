@@ -15,8 +15,7 @@
 ---
 
 ### 📈 Contribution Graph
-![Your Activity Graph](https://activity-graph.herokuapp.com/graph?username=alfnmldr&theme=tokyonight)
-
+![Your Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alfnmldr&theme=tokyo-night)
 ### Fun Facts
 - I once fixed a bug by deleting the whole project and starting over..hehe
 
