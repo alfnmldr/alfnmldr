@@ -9,7 +9,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfnmldr&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 </p>
----
 
 ### Fun Facts
 - I once fixed a bug by deleting the whole project and starting over..hehe
