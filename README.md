@@ -33,7 +33,7 @@
 <td width="50%" valign="top">
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=js,php,go,html,css" />
+<img src="https://skillicons.dev/icons?i=js,electron,php,go" />
 
 </td>
 </tr>
