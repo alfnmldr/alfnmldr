@@ -30,12 +30,4 @@
 
 - I once fixed a bug by deleting the whole project and starting over..hehe
 
-  
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alfnmldr&show_icons=true&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=alfnmldr&theme=tokyonight" />
-  </a>
-</p>
+
