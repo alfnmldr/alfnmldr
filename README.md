@@ -12,7 +12,8 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=alfnmldr&theme=onedark" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alfnmldr&theme=tokyonight
+ />
     </td>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alfnmldr&theme=tokyonight" />
