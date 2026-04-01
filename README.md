@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Status-Available_for_Projects-green?style=for-the-badge" />
 </p>
 
-<table>
+<!-- <table>
   <tr>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alfnmldr&theme=tokyonight" />
@@ -18,7 +18,9 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alfnmldr&theme=tokyonight" />
     </td>
   </tr>
-</table>
+</table> -->
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfnmldr&theme=tokyonight" width="100%" />
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=js,laravel,react,go,html,css&perline=6)](https://skillicons.dev)
