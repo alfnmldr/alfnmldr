@@ -1,9 +1,6 @@
 # <p align="left">Hi, I'm Alfian</p>
 ![PixeLɑnd ◇](https://github.com/user-attachments/assets/2c1e806d-cb1c-44a8-b722-f083c2502823)
 
-### Tools
-[![My Skills](https://skillicons.dev/icons?i=js,laravel,react,go,html,css&perline=6)](https://skillicons.dev)
-
 ### Journey
 
 <p align="left">
@@ -22,6 +19,9 @@
     </td>
   </tr>
 </table>
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=js,laravel,react,go,html,css&perline=6)](https://skillicons.dev)
 
 ### Fun Facts
 
