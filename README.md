@@ -22,6 +22,7 @@
     </td>
   </tr>
 </table>
+
 ### Fun Facts
 
 - I once fixed a bug by deleting the whole project and starting over..hehe
