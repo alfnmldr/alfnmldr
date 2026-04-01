@@ -32,15 +32,10 @@
 
   
 <p align="center">
-  <table align="center">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=alfnmldr&show_icons=true&theme=tokyonight" alt="Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=alfnmldr&theme=tokyonight" alt="Activity Graph" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=alfnmldr&show_icons=true&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=alfnmldr&theme=tokyonight" />
+  </a>
 </p>
-
