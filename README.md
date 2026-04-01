@@ -22,22 +22,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfnmldr&theme=nord_dark" width="100%" />
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman" />
-
-</td>
-<td width="50%" valign="top">
-
-### Languages
-<img src="https://skillicons.dev/icons?i=js,electron,php,go" />
-
-</td>
-</tr>
-</table>
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm,cpp,solidity,linux,arch,ubuntu,py,js,mysql,dotnet,cs,cv,vim,java,html,debian,nginx,react,powershell)](https://skillicons.dev)
 
 ### Fun Facts
 
