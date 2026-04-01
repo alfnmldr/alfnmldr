@@ -31,5 +31,16 @@
 - I once fixed a bug by deleting the whole project and starting over..hehe
 
   
-![Street Fighter Alpha 2, Sakura stage_](https://github.com/user-attachments/assets/867245e8-158b-4a5f-98ce-3a4f4be5830c)
+<p align="center">
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=alfnmldr&show_icons=true&theme=tokyonight" alt="Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=alfnmldr&theme=tokyonight" alt="Activity Graph" />
+      </td>
+    </tr>
+  </table>
+</p>
 
