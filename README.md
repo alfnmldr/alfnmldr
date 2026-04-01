@@ -22,8 +22,9 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfnmldr&theme=nord_dark" width="100%" />
 
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,cpp,mysql,react,figma,linux,html,css,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,py,cpp,mysql,react,electron,figma,arch,html,css,vscode&perline=10" />
 </p>
 
 ### Fun Facts
