@@ -20,7 +20,7 @@
   </tr>
 </table> -->
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfnmldr&theme=github" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfnmldr&theme=nord_dark" width="100%" />
 
 <table width="100%">
 <tr>
