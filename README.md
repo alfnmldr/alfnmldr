@@ -22,7 +22,9 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfnmldr&theme=nord_dark" width="100%" />
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm,cpp,solidity,linux,arch,fedora,ubuntu,py,js,mysql,dotnet,cs,cv,vim,java,html,debian,nginx,react,powershell)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,py,cpp,mysql,react,figma,linux,html,css,vscode&perline=10" />
+</p>
 
 ### Fun Facts
 
