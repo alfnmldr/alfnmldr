@@ -4,7 +4,7 @@
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=js,laravel,react,go,html,css&perline=6)](https://skillicons.dev)
 
-### 🚀 My Focus & Journey
+### Journey
 
 <p align="left">
   <img src="https://img.shields.io/badge/Focus-Backend_Development-blue?style=for-the-badge&logo=go" />
@@ -23,5 +23,6 @@
   </tr>
 </table>
 ### Fun Facts
+
 - I once fixed a bug by deleting the whole project and starting over..hehe
 
