@@ -23,22 +23,20 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alfnmldr&theme=tokyonight" width="100%" />
 
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Languages</h3>
-      <img
-        src="https://skillicons.dev/icons?i=js,php,go,html,css&perline=5"
-        width="100%"
-      />
-    </td>
-    <td width="50%" valign="top">
-      <h3>Tools & Frameworks</h3>
-      <img
-        src="https://skillicons.dev/icons?i=laravel,react,nodejs,mysql,git,docker,github,vscode,linux,postman&perline=5"
-        width="100%"
-      />
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman" />
+
+</td>
+<td width="50%" valign="top">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=js,php,go,html,css" />
+
+</td>
+</tr>
 </table>
 
 ### Fun Facts
