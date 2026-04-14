@@ -14,9 +14,9 @@
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alfnmldr&theme=tokyonight" />
     </td>
-    <td>
+    <!-- <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alfnmldr&theme=tokyonight" />
-    </td>
+    </td> -->
   </tr>
 </table>
 
