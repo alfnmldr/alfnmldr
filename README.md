@@ -1,4 +1,7 @@
 # <p align="left">Hi, I'm Alfian</p>
+
+<p><quote>Aut viam inveniam aut faciam</quote></p>
+
 ![PixeLɑnd ◇](https://github.com/user-attachments/assets/2c1e806d-cb1c-44a8-b722-f083c2502823)
 
 ### Journey
