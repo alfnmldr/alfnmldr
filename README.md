@@ -8,7 +8,7 @@
 <br>
 <br>
 <p align="center" style="margin-top:100px";>
-  <img src="https://skillicons.dev/icons?i=js,laravel,kotlin,dart,react,electron,vite,python,html,css&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,laravel,dart,react,electron,vite,python,html,css&perline=10" />
 </p>
 
 ### Fun Facts
